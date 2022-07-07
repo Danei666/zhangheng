@@ -4,4 +4,5 @@ b = list(set(a))
 
 b.sort(reverse=False)
 
+
 print(b)
